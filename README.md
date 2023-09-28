@@ -2,6 +2,13 @@
 
 _An AI-powered app designed to streamline data analysis and visualization. DataSci Assistant aids in interpreting datasets, generating visualizations, and suggesting machine learning models._
 
+<img width="1050" alt="Screen Shot 2023-09-28 at 4 49 08 PM" src="https://github.com/AceCanacan/Datapal/assets/110709199/57867e9c-308a-4dc1-a348-7f064ac7d29c">
+<img width="1050" alt="Screen Shot 2023-09-28 at 4 49 19 PM" src="https://github.com/AceCanacan/Datapal/assets/110709199/0b1e9978-5d10-4b1b-920d-83d5bdd49ccc">
+<img width="1054" alt="Screen Shot 2023-09-28 at 4 49 34 PM" src="https://github.com/AceCanacan/Datapal/assets/110709199/1e915508-086f-4e09-8c49-3fd01ff81c7a">
+<img width="1049" alt="Screen Shot 2023-09-28 at 4 49 41 PM" src="https://github.com/AceCanacan/Datapal/assets/110709199/b1b7a265-9973-4c34-898f-b5a89b70016f">
+<img width="1052" alt="Screen Shot 2023-09-28 at 4 49 46 PM" src="https://github.com/AceCanacan/Datapal/assets/110709199/f894bd14-f8e5-41b5-8276-e4a46097d454">
+
+
 ## 📌 Table of Contents
 - [📖 Project Description](#-project-description)
 - [🔧 Installation](#-installation)
